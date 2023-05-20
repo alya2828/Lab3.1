@@ -1,0 +1,19 @@
+{
+  "name": "script",
+  "version": "1.1.1",
+  "description": "webpack",
+  "main": "script.js",
+  "scripts": {
+    "start": "http-server",
+    "webpack":"webpack"
+  },
+  "author": "linat",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "-"
+  ]
+}

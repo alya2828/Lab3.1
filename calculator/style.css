@@ -1,0 +1,20 @@
+html,
+body {
+    font-size: 20pt;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+.btn-styled {
+    font-size: 14px;
+    margin: 8px;
+    padding: 0 10px;
+    line-height: 2;
+}
+textarea {
+    text-align: center;
+    width: 300px;
+    height: 75px;
+}
+ 
